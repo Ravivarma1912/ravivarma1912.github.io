@@ -1,5 +1,6 @@
 # Personal Portfolio 🔥
 > Credits: https://rajaprerak.github.io/
+> Credits goes to Raja Prerak
 
 :star: Star me on GitHub — it helps!
 
