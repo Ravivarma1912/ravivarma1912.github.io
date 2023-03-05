@@ -22,13 +22,13 @@ body {
 }
 
 .icofont-rounded-right:before {
-  color: #f82a2b;
+  color: #537FE7;
 }
 
 body::before {
   content: "";
   position: fixed;
-  background: #010e1b;
+  background: #010e1bed;
   background-size: cover;
   left: 0;
   right: 0;
@@ -43,11 +43,11 @@ body::before {
 }
 
 a {
-  color: #f82a2b;
+  color: #537FE7;
 }
 
 a:hover {
-  color: #f82a2b;
+  color: #537FE7;
   text-decoration: none;
 }
 
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: #f82a2b;
+  color: #537FE7;
 }
 
 #header h2 span {
@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #f82a2b;
+  color: #537FE7;
   text-decoration: none;
 }
 
@@ -743,7 +743,7 @@ section .container {
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
-  color: #f82a2b;
+  color: #537FE7;
 }
 
 /*--------------------------------------------------------------
@@ -952,7 +952,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #f82a2b;
+  color: #537FE7;
 }
 
 .contact .php-email-form {
